@@ -1,0 +1,7 @@
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\obj\Debug\KodlamaIO.csproj.AssemblyReference.cache
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\obj\Debug\KodlamaIO.csproj.CoreCompileInputs.cache
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\bin\Debug\KodlamaIO.exe.config
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\bin\Debug\KodlamaIO.exe
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\bin\Debug\KodlamaIO.pdb
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\obj\Debug\KodlamaIO.exe
+C:\Yazılımsal Dosyalar-Hasan Can\C# Course 2024\homeworks\KodlamaIO\KodlamaIO\obj\Debug\KodlamaIO.pdb
